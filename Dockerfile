@@ -14,4 +14,3 @@ COPY . /usr/src/app
 
 # Run the app
 CMD ["./run_app.sh"]
-

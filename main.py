@@ -1,4 +1,4 @@
 import os
 
-print("Hello Wolrd!")
+print("Hello Wolrd from python!")
 os.getenv('TEST')
